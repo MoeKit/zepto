@@ -17,5 +17,8 @@
     , "express": "3.1.x"
     , "coffee-script": "1.5.x"
     , "shelljs": "0.1.x"
+  },
+  "spm":{
+    "main":"index.js"
   }
 }

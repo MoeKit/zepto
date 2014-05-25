@@ -1,7 +1,7 @@
 .DS_Store
 dist/
 dist/zepto.min.js
-dist/zepto.js
+!dist/zepto.js
 pkg
 *.swp
 docs/*
@@ -10,4 +10,3 @@ docs/*
 public
 node_modules
 temp/
-npm-debug.log
